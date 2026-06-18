@@ -1,6 +1,6 @@
 # Portfolio
 # 👋 Ciao, sono Davide Di Paola Ficarella
-🎯 Aspirante Web Developer Full-Stack, con base in Sicilia, Italia.
+🎯 Aspirante Web Developer Full-Stack, Sono della Sicilia, Italia.
 
 ---
 
